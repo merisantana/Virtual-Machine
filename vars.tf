@@ -1,21 +1,21 @@
 Variable "resourcerm_group_name" {
-  type "string"
+  type = string
 }
 Variable "location" {
-  type "string"
+  type = string
 }
 Variable "namevnet" {
-  type "string"
+  type = string
 }
 
 Variable "namesubnet" {
-  type "string"
+  type = string
 }
 
 Variable "namenic" {
-  type "string"
+  type = string
 }
 
 Variable "namevm" {
-  type "string"
+  type = string
 }
